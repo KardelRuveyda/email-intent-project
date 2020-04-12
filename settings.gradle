@@ -1,0 +1,2 @@
+rootProject.name='EmailIntentProject'
+include ':app'
